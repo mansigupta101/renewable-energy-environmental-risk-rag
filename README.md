@@ -28,6 +28,8 @@ The planned interface will let users select a predefined question or enter a cus
 ## 🧭 Workflow at a glance
 
 ```mermaid
+%%{init: {"flowchart": {"wrappingWidth": 260}}}%%
+
 flowchart TB
     SRC[("Public environmental guidance<br/>wind and solar")]
 
