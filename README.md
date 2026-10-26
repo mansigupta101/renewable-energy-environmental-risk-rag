@@ -23,7 +23,7 @@ The **Environmental Risk Assessment Assistant** is a RAG-based application being
 
 The planned interface will let users select a predefined question or enter a custom query, review potential environmental concerns and mitigation measures, and follow source references for further reading.
 
-> **Project status:** **Ingestion pipeline is implemented **: document parsing is being tuned. **Query pipeline** is under *Planned Implementation & Future Scope*. The status will be updated as the implementation progresses.
+> **Project status:** **Ingestion pipeline is implemented**: document parsing is being tuned. **Query pipeline** is under *Planned Implementation & Future Scope*. The status will be updated as the implementation progresses.
 
 ## 🧭 Workflow at a glance
 
